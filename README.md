@@ -1,2 +1,2 @@
 # Tetris
-One of my first working js projects. Fully working tetris.
+One of my first js projects. Fully working tetris.
